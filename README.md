@@ -6,6 +6,8 @@ no user permission required.
 
 auto-download exploit.
 
+(Password Protected)
+
 Firefox✅
 
 Opera✅
