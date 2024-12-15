@@ -1,10 +1,8 @@
-# jsphpautodownloadexploit-20241412live
+# browser-autodownload-exploit-2024-14-12
 
-auto download anything.
+auto download any file extension.
 
 no user permission required.
-
-auto-download exploit.
 
 (Password Protected)
 
